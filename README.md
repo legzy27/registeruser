@@ -7,3 +7,8 @@
 
 
 
+## User Story implemented
+
+* As a user, I can see all the registers users in the system
+* Each user should have a name, email and location
+* I can search by name and see users that match my input
